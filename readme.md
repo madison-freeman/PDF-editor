@@ -6,7 +6,7 @@ DEMO link:
 ## Instructions
 
 1. Click `Choose PDF` to upload a `.pdf` file.
-2. Add images, signatures, text to your PDF.
+2. Add images, signatures, or text to your PDF.
 3. Click `Save`.
 4. That's it!
 
