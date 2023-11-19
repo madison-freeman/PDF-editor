@@ -15,7 +15,7 @@ maf-pdf-editor.vercel.app
 - Drag, Drop, and Resize.
 - Add signatures.
 - Adjust line height, font size, font family.
-- Works for Mobile.
+- Works on mobile.
 - Drag and drop to upload your PDF.
 
 ---
