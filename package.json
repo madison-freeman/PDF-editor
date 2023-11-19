@@ -2,7 +2,7 @@
   "name": "pdf-editor",
   "version": "1.0.0",
   "author": "Madison <mfreeman3@stetson.edu>",
-  "homepage": "https://pdf-editor.maf.sh",
+  "homepage": "https://maf-pdf-editor.sh",
   "scripts": {
     "build": "rollup -c",
     "dev": "rollup -c -w",
