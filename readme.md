@@ -1,7 +1,7 @@
 # PDF Editor
 
 DEMO link:
-maf-pdf-editor.vercel.app
+[(maf-pdf-editor.vercel.app)]
 
 ## Instructions
 
