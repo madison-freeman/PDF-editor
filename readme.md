@@ -1,4 +1,4 @@
-# PDF Editor
+# Web-based PDF Editor 
 
 DEMO link:
 [maf-pdf-editor.vercel.app](https://maf-pdf-editor.vercel.app)
