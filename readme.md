@@ -12,7 +12,7 @@ DEMO link:
 
 ## Functionality & Features
 
-- Drag, Drop, and Resize.
+- Drag, Drop, and Resize text.
 - Add signatures.
 - Adjust line height, font size, font family.
 - Works on mobile.
