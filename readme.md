@@ -13,7 +13,7 @@ DEMO link:
 ## Functionality & Features
 
 - Drag, Drop, and Resize text.
-- Add signatures.
+- Add signatures using mouse or touch.
 - Adjust line height, font size, font family.
 - Works on mobile.
 - Drag and drop to upload your PDF.
